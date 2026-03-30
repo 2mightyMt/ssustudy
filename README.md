@@ -29,11 +29,14 @@
 ---
 
 ## 📖 기본 학습 방식 (현재는 C언어를 중점적으로)
-- 온라인 진행 : 디스코드 화면공유를 통하여 오늘 자신이 풀은 문제중 한개 풀이 및 확인, 질의응답 
+- 온라인 진행 :  화면공유를 통하여 오늘 자신이 풀은 문제중 한개 풀이 및 확인, 질의응답 
 - **매일 BaekJoon Online Judge 단계별로 문제풀기 1문제 이상 지향** 
 - but 쉬고싶은 날은 쉬어도 괜찮습니다.
 - **풀은 문제는 현 레포지토리에 생성한 개인의 브랜치에 올리기**
-- Github / Git / Other GUI / IDE 사용법은 추가 예정
+- 학습방식 참고 
+- Git, Github 개념과 사용법
+- VSCODE 내장 GUI, Sourcetree 사용법
+- VS / VSCODE 사용법
 
 ---
 
@@ -45,14 +48,11 @@
 ---
 
 ## 🛠️ 사용 툴 / 📌 참고자료
-- GitHub  
-- Notion  
+- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+- ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  
 - ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-| Element         | 
-- Visual Studio (C/C++)
-- Visual Studio Code
-- Dev C++
-- Online C Compiler
+- ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)     
+- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
